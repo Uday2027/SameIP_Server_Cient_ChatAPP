@@ -153,10 +153,4 @@ Feel free to use, distribute, or modify.
 
 ---
 
-```
-
----
-
-Let me know if you'd like this as an actual `.md` file download or need help creating a version for GitHub Pages or documentation sites like Docusaurus.
-```
 
